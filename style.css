@@ -1,0 +1,56 @@
+.container{
+    margin-bottom: 100px;
+}
+.categories{
+    margin-top: 100px;
+}
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.orange{
+    background-color: #fceae8;
+    margin-top: 100px;
+    padding: 30px;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #FF136F;
+}
+.bye-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border-radius: 8px;
+    border: none;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+
+.categories h1{
+    color: #fff;
+}
+.categories img{
+    width: 100px;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+    height: 130px;
+}
+.cat1{
+    background-image: linear-gradient(to right, orange, rgb(236, 96, 45));
+}
+.cat2{
+    background-image: linear-gradient(to right, rgb(10, 157, 206), rgb(62, 62, 206));
+}
+.cat3{
+    background-image: linear-gradient(to right, #FF589B, #FF136F);
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
